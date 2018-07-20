@@ -1,9 +1,11 @@
 Assalamu’alaikum Warahmatullahi Wabarakatuhu..
 Kami, Moh. Saiful Rossulian dan Heriadi membuat game yang bernama Pesawat Tempur bertemakan perang di luar angkasa.
 Author dalam game kami ini adalah Idr Corner yang kami temukan refrensinya di Youtube.
+
 Source: https://www.youtube.com/watch?v=06NQ9O4TcMI
 
 Sound Effect
+
 	Suara pada milis/rudal kami dapat dari http://www.findsounds.com/ISAPI/search.dll?start=11&keywords=shotgun&seed=29
 
 	Suara saat mengenai sasaran kami dapat dari http://svdl.iplay.bg/sound/AZM/infect3.wav dan http://www.newexpression.com/lara/web/sounds/holiday/scream.wav 
