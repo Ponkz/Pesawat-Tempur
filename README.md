@@ -14,6 +14,7 @@ Source: https://www.bensound.com/royalty-free-music/track/epic
 **Teks CSS lainnya kami dapat dari berbagai sumber
 
 •	Cara memainkan game Pesawat Tempur
+
 	Tekan tombol panah atas pada keyboard untuk menggerakkan pesawat ke atas
 
 	Tekan tombol panah bawah pada keyboard untuk menggerakkan pesawat ke bawah
@@ -29,7 +30,9 @@ Source: https://www.bensound.com/royalty-free-music/track/epic
 	Jika anda tidak berhasil menghabiskan atau malah membiarkan kepala-kepala (meteor) melewati pesawat anda hingga memasuki dinding terbelakang, maka anda kalah.
  
 
-Sekian.. 
+Sekian..
+
 Mohon maaf atas segala kekurangan...
+
 Wassalamu’alaikum wr. Wb.
 
