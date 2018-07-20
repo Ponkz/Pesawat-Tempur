@@ -15,13 +15,20 @@ Source: https://www.bensound.com/royalty-free-music/track/epic
 
 •	Cara memainkan game Pesawat Tempur
 	Tekan tombol panah atas pada keyboard untuk menggerakkan pesawat ke atas
+
 	Tekan tombol panah bawah pada keyboard untuk menggerakkan pesawat ke bawah
+
 	Tekan tombol panah kiri pada keyboard untuk menggerakkan pesawat ke kiri
+
 	Tekan tombol panah kanan pada keyboard untuk menggerakkan pesawat ke kanan
+
 	Jika anda ingin menang, maka tembak habis kepala-kepala (meteor) dalam game tersebut
+
 	Jika anda terbentur dengan kepala-kepala (meteor), maka anda kalah.
+
 	Jika anda tidak berhasil menghabiskan atau malah membiarkan kepala-kepala (meteor) melewati pesawat anda hingga memasuki dinding terbelakang, maka anda kalah.
  
+
 Sekian.. 
 Mohon maaf atas segala kekurangan...
 Wassalamu’alaikum wr. Wb.
